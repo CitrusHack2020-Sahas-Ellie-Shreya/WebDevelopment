@@ -1,10 +1,10 @@
 h1 {
-	color: pink;
+	color: black;
 	text-align: center;
 }
 
 a {
-	color: pink;
+	color: black;
 }
 
 /*--------------------------------------------------------------------------------------*/
@@ -21,7 +21,7 @@ a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 20px;
 }
 /* Change the color of links on hover */
 .topnav a:hover {
@@ -30,7 +30,16 @@ a {
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #4CAF50;
   color: white;
 }
 /*--------------------------------------------------------------------------------------*/
+article {
+  float: center;
+  padding left: 200px;
+  padding right: 70px;
+  padding top: 5%
+  padding bottom: 5%
+  width: 70%;
+  background-color: #f1f1f1;
+  height: 300px; /* only for demonstration, should be removed */
+}
