@@ -38,16 +38,11 @@ a {
 /*--------------------------------------------------------------------------------------*/
 article {
   float: center;
-  padding: 2%;
+  padding: 24%;
   width: 50%;
   color:white;
   background-color: black;
   margin: auto;
-  height: 250px; /* only for demonstration, should be removed */
+  height: 200px; /* only for demonstration, should be removed */
 }
 /*--------------------------------------------------------------------------------------*/
-ul{
-	color:white;
-	margin: auto;
-	width: 50%;
-}
