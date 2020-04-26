@@ -39,7 +39,11 @@ a {
 /* Add a color to the active/current link */
 .topnav a.active {
   /*color: red;*/
+<<<<<<< Updated upstream
   text-decoration: underline;
+=======
+  font-weight: bold;
+>>>>>>> Stashed changes
 }
 /*--------------------------------------------------------------------------------------*/
 article {
