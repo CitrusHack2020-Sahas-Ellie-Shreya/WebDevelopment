@@ -1,10 +1,13 @@
 h1 {
-	color: black;
+	color: white;
 	text-align: center;
+}
+body {
+  background-color: black;
 }
 
 a {
-	color: black;
+	color: #011E25;
 }
 
 /*--------------------------------------------------------------------------------------*/
@@ -30,26 +33,19 @@ a {
 
 /* Add a color to the active/current link */
 .topnav a.active {
-
   color: white;
 }
 /*--------------------------------------------------------------------------------------*/
 article {
   float: center;
-  padding left: 200px;
-  padding right: 70px;
-  padding top: 5%
-  padding bottom: 5%
-  width: 70%;
-  background-color: #f1f1f1;
-  height: 300px; /* only for demonstration, should be removed */
-}
-  background-color: #4CAF50;
-  color: white;
+  padding: 5%;
+  width: 50%;
+  color:white;
+  background-color: black;
+  margin: auto;
+  height: 250px; /* only for demonstration, should be removed */
 }
 /*--------------------------------------------------------------------------------------*/
-
-
 * {
     box-sizing: border-box
 }
