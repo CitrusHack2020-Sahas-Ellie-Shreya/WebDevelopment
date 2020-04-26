@@ -28,12 +28,13 @@ a {
 }
 /* Change the color of links on hover */
 .topnav a:hover {
-  color: red;
+  color: black;
+  background-color: white;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  color: white;
+  color: red;
 }
 /*--------------------------------------------------------------------------------------*/
 article {
