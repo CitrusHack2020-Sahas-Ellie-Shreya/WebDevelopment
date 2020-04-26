@@ -1,10 +1,13 @@
 h1 {
-	color: black;
+	color: white;
 	text-align: center;
+}
+body {
+  background-color: black;
 }
 
 a {
-	color: black;
+	color: #011E25;
 }
 
 /*--------------------------------------------------------------------------------------*/
@@ -35,11 +38,16 @@ a {
 /*--------------------------------------------------------------------------------------*/
 article {
   float: center;
-  padding left: 200px;
-  padding right: 70px;
-  padding top: 5%
-  padding bottom: 5%
-  width: 70%;
-  background-color: #f1f1f1;
-  height: 300px; /* only for demonstration, should be removed */
+  padding: 2%;
+  width: 50%;
+  color:white;
+  background-color: black;
+  margin: auto;
+  height: 250px; /* only for demonstration, should be removed */
+}
+/*--------------------------------------------------------------------------------------*/
+ul{
+	color:white;
+	margin: auto;
+	width: 50%;
 }
