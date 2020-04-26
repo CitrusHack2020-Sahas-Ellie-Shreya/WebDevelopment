@@ -1,5 +1,3 @@
-alert("Hello Welome to our webpage!");
-
 var slideIndex = 1;
 showSlides(slideIndex);
 
